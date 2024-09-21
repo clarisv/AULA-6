@@ -1,4 +1,4 @@
-- Usando o Banco clude da pizza
+-- Usando o Banco clude da pizza
 use clubedapizza;
 
 -- 1— Insira um novo atendente
